@@ -1,0 +1,2 @@
+# If your project has any requirements not included on PrairieLearn/Anaconda, include them here
+matplotlib
