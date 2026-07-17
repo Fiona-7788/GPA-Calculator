@@ -10,12 +10,15 @@ A Python tool for tracking courses and computing weighted GPA, built as a COGS 1
 - Save and load student data to a JSON file for persistent storage
 
 ## 📁 Project Structure
+
+```
 GPA-Calculator/
 ├── ProjectNotebook.ipynb  ← demo, testing, and project description
 ├── gpa_module.py          ← Student class and helper functions
 ├── test_gpa.py            ← 27 unit tests using unittest
 ├── script.py              ← runnable demo script
 └── requirements.txt       ← dependencies
+```
 
 ## ⚙️ Installation
 ```bash
